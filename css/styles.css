@@ -113,6 +113,11 @@ a, i{
     left: 25px;
     bottom: 25px;
     border-radius: 10px;
+    transition: 0.3s;
+}
+
+.main-image-info:hover{
+    transform: scale(1.1);
 }
 
 .designer img{
@@ -134,21 +139,41 @@ a, i{
 #img-2{
     background-image: url('../img/g_2.jpg');
     border-radius: 10px;
+    transition: 0.2s;
+}
+
+#img-2:hover{
+    transform: scale(1.1);
 }
 
 #img-3{
     background-image: url('../img/g_3.jpg');
     border-radius: 10px;
+    transition: 0.2s;
+}
+
+#img-3:hover{
+    transform: scale(1.1);
 }
 
 #img-4{
     background-image: url('../img/g_4.jpg');
     border-radius: 10px;
+    transition: 0.2s;
+}
+
+#img-4:hover{
+    transform: scale(1.1);
 }
 
 #img-5{
     background-image: url('../img/g_5.jpg');
     border-radius: 10px;
+    transition: 0.2s;
+}
+
+#img-5:hover{
+    transform: scale(1.1);
 }
 
 
